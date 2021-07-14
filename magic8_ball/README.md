@@ -9,7 +9,6 @@ This is an open source project. Feedback and questions are welcome!
 Python 3.9.5
 
 
-
 ## Background Information
 
 The Magic 8-Ball is a plastic toy that looks like an eight-ball, and is currently manufactured by Mattel. <br>
