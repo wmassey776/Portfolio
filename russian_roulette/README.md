@@ -1,7 +1,7 @@
 # DevProject - Russian Roulette
 This is an open source project. Feedback and questions are welcome!
 
-<img align="center" src="https://raw.githubusercontent.com/seraph776/seraph776/main/resources/russianRoulette.png" alt="Russian Roulette" height="426" width="637" />
+<img align="center" src="https://raw.githubusercontent.com/seraph776/seraph776/main/resources/russinRoulette.jpg" alt="Russian Roulette" height="426" width="637" />
 
 
 ## Tech/framework used
